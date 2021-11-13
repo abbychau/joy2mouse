@@ -14,5 +14,5 @@ Joy2Mouse is a program that allows you to control your computer mouse with a joy
 
 # Installation
 
-Go to [Release](https://github.com/abbychau/joy2mouse/releases) page and download the latest version.
+Go to [Release](https://github.com/abbychau/joy2mouse/releases) page and download the latest version. No installation is required.
 
